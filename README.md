@@ -1,8 +1,7 @@
-# Getting Started with Create React App
+# FWS Website Development Repo
+- In development, a wbsite for a service that will provide video editing services
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Available React Scripts
 
 In the project directory, you can run:
 
